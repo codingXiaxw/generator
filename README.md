@@ -5,6 +5,7 @@
 
 <!--more-->   
 
+[更多资料请点击这里进入我的博客](http://codingxiaxw.cn/2016/11/13/41-mybatis9%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/)
 
 首先我们需要在官网下载:[逆向工程开发文档](http://www.mybatis.org/generator/)以及jar包:mybatis-generator-core-bundle。用IDEA的好处就是可以使用Maven依赖，但是此篇文章中我们就新建一个普通工程。  
 
