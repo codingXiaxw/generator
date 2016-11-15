@@ -163,3 +163,6 @@ public class GeneratorSqlmap {
 - [Github@codingXiaxw](https://github.com/codingXiaxw)
 
 
+## 如何使用
+1. git clone https://github.com/codingXiaxw/generator.git
+2. 用IDEA open 即可。
