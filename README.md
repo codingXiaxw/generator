@@ -134,7 +134,9 @@ public class GeneratorSqlmap {
 ```
 注意，这里new File中传入的参数只能是`src/generatorConfig.xml`而不能为`generatorConfig.xml`，否则会出现`java.io.FileNotFoundException: generatorConfig.xml (No such file or directory)`的报错信息，运行程序，在打印台看到输出日志信息为:![](http://od2xrf8gr.bkt.clouddn.com/111.png)  
 
-然后再点击文件目录上的刷新图标刷新文件目录，文件目录下出现我们通过单表映射出来的po类包以及mapper包下的mapper.xml和mapper.java，刚开始的工程目录如下:
+然后再点击文件目录上的刷新图标刷新文件目录，文件目录下出现我们通过单表映射出来的po类包以及mapper包下的mapper.xml和mapper.java，刚开始的工程目录如下:  
+
+
 <img src="http://od2xrf8gr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-11-15%20%E4%B8%8B%E5%8D%885.55.50.png" width="50%" height="20%" />   
 运行程序后最后的工程目录结构如下:  
 
